@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/silver-globe-electric/static/css/main.ab7de7f4.css",
+    "main.js": "/silver-globe-electric/static/js/main.b3eb93b6.js",
+    "static/js/488.a0b72a89.chunk.js": "/silver-globe-electric/static/js/488.a0b72a89.chunk.js",
+    "index.html": "/silver-globe-electric/index.html",
+    "main.ab7de7f4.css.map": "/silver-globe-electric/static/css/main.ab7de7f4.css.map",
+    "main.b3eb93b6.js.map": "/silver-globe-electric/static/js/main.b3eb93b6.js.map",
+    "488.a0b72a89.chunk.js.map": "/silver-globe-electric/static/js/488.a0b72a89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab7de7f4.css",
+    "static/js/main.b3eb93b6.js"
+  ]
+}
