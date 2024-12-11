@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header className="bg-[#F8F6F0] p-1 flex items-center">
       <img
-        src="./Silver_Globe_Electric.png"
+        src="./Silver_Globe_Electric.PNG"
         alt="Logo"
         className="w-[140px] h-[140px] ml-3" // Adjust size as needed
       />
